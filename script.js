@@ -14,8 +14,8 @@ const CONFIG = {
   // Isi nomor dan nama pemilik. Selama nomor kosong, tampil "Nomor rekening menyusul".
   // Hapus satu baris jika tidak diperlukan, atau tambah baris baru untuk bank / e-wallet lain.
   gift: [
-    { bank: "BRI",     nomor: "", atasNama: "" },
-    { bank: "Mandiri", nomor: "", atasNama: "" }
+    { bank: "BRI",     nomor: "4389 0101 6533 536", atasNama: "Nida ankhoviyya" },
+    { bank: "Mandiri", nomor: "1370013872268", atasNama: "Sidik Santoso" }
   ],
 
   // File musik (taruh di folder assets). Jika file tidak ada, tombol musik otomatis disembunyikan.
